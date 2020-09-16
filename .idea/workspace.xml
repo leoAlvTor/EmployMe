@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EmployMe:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="510d205c-9afe-4d31-814b-285e1fc5250a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/EmployMe_ejb_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/EmployMe_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/BootsFaces_OSP_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JPA_2_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Mojarra_2_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/primefaces_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployMe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/BootsFaces-OSP-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/primefaces-8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/info/microdev/entidad/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/info/microdev/entidad/Obra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/info/microdev/entidad/Oferta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/info/microdev/entidad/Trabajador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/faces-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clases/src/info/microdev/cap2/ControladorPrt1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/artifacts/VeterinariaMC_ejb_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/artifacts/VeterinariaMC_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/libraries/JPA_2_0_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/libraries/Primefaces.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/VeterinariaMC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/AbstractFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/ClienteFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/CompraCabeceraFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/CompraDetalleFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/DeudaCabeceraFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/DeudaDetalleFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/EmpleadoFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/FacturaCabeceraFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/FacturaDetalleFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/PacienteFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/ProductoFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/ProveedorFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/ejb/RegistroMedicoFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/CompraCabecera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/CompraDetalle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/DeudaCabecera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/DeudaDetalle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/FacturaCabecera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/FacturaDetalle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/Paciente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/Proveedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/src/info/microdev/entidad/RegistroMedico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/web/WEB-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/web/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/web/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/web/private/Factura.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeterinariaMC/web/private/MenuPrincipal.xhtml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1hZSZC0VUcM1BCBGkeWoxx657M9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36977887" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.0.1" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.1" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/EmployMe_war_exploded/index.xhtml" />
+      <deployment>
+        <artifact name="EmployMe:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EmployMe:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="510d205c-9afe-4d31-814b-285e1fc5250a" name="Default Changelist" comment="" />
+      <created>1600217173452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600217173452</updated>
+      <workItem from="1600217181047" duration="3733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VaadinDesigner.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600217344334">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state x="351" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.39.1920.1041@0.39.1920.1041" timestamp="1600217344334" />
+    <state x="594" y="318" key="FileChooserDialogImpl" timestamp="1600220908847">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state x="594" y="318" key="FileChooserDialogImpl/0.39.1920.1041@0.39.1920.1041" timestamp="1600220908847" />
+    <state x="353" y="462" width="817" height="195" key="Github.ShareDialog" timestamp="1600220584204">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state x="353" y="462" width="817" height="195" key="Github.ShareDialog/0.39.1920.1041@0.39.1920.1041" timestamp="1600220584204" />
+    <state width="784" height="265" key="GridCell.Tab.0.bottom" timestamp="1600220919436">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.0.bottom/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919436" />
+    <state width="784" height="265" key="GridCell.Tab.0.center" timestamp="1600220919435">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.0.center/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919435" />
+    <state width="784" height="265" key="GridCell.Tab.0.left" timestamp="1600220919434">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.0.left/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919434" />
+    <state width="784" height="265" key="GridCell.Tab.0.right" timestamp="1600220919435">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.0.right/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919435" />
+    <state width="784" height="265" key="GridCell.Tab.1.bottom" timestamp="1600220919437">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.1.bottom/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919437" />
+    <state width="784" height="265" key="GridCell.Tab.1.center" timestamp="1600220919436">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.1.center/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919436" />
+    <state width="784" height="265" key="GridCell.Tab.1.left" timestamp="1600220919436">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.1.left/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919436" />
+    <state width="784" height="265" key="GridCell.Tab.1.right" timestamp="1600220919436">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state width="784" height="265" key="GridCell.Tab.1.right/0.39.1920.1041@0.39.1920.1041" timestamp="1600220919436" />
+    <state x="402" y="152" key="SettingsEditor" timestamp="1600217985594">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state x="402" y="152" key="SettingsEditor/0.39.1920.1041@0.39.1920.1041" timestamp="1600217985594" />
+    <state x="622" y="464" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600217391236">
+      <screen x="0" y="39" width="1920" height="1041" />
+    </state>
+    <state x="622" y="464" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.39.1920.1041@0.39.1920.1041" timestamp="1600217391236" />
+  </component>
+  <component name="designer.settings">
+    <option name="autodetectServerAddress" value="true" />
+    <option name="serverIp" value="localhost" />
+  </component>
+</project>
